@@ -1,8 +1,8 @@
 h1 {
-  color:#FOF8FF;
+  color:blue;
 }
 
 h2 {
-  font-style: italic;
-  text-align: right;
+  font-style: bold;
+  text-align: left;
 }
