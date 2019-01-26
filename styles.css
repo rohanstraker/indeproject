@@ -1,4 +1,8 @@
 body {background-color: #808080;
+  width:none;
+  border: 25px solid black;
+  padding:10em;
+  margin:none;
 }
 
 h1 {
@@ -11,13 +15,16 @@ h2 {
   font-style: bold;
   text-align: center;
 }
-
-p {
+div.a{font-size:130px;
 
 }
-
-
+div.b{
+ font-size:130px;
+}
 .img-circle {
  border-radius: 50%;
  float: right;
+}
+div.d{
+font-size:145px;
 }
