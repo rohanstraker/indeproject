@@ -1,0 +1,19 @@
+
+Directions  for adding project to git hub
+
+1) git add .
+2) (optional) git status 
+3 git commit -m "add_____."
+4) git push rs master 
+
+others:
+view remote nodes: git remote -v 
+remove remote node: git remote rm rs 
+pull a repo: git clone link )
+(())
+1) pairs (in guest directry -cd in)
+2)make your repo in github 
+3)cd desktop/?(your project)
+4)(in project) git init 
+5) (in project) git pair <initals><initals>
+6) git remote add rs <link>
