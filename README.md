@@ -34,7 +34,8 @@ pull a repo: git clone link )
 ## Known Bugs 
 
 _{there may be some breaks in the css.styling that i still need to go in and add some mire styling to I also broke down every section in differnt "dev sections as
-example dev.a dev.b dev.c and so forth just incase i need to go back to a certain section and make changes later to the page this will make it that much more easy to do." }_
+example dev.a dev.b dev.c and so forth just incase i need to go back to a certain section and make changes later to the page this will make it that much more easy to do.
+There is something keeping my nav bar from just resting straight across the page" }_
 
 ## Technologies used
 
